@@ -4,12 +4,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/naomiyocum/tweeter)
 ![GitHub top language](https://img.shields.io/github/languages/top/naomiyocum/tweeter?color=yellow)
 
-## Table of contents
-* [General Info](#general-info)
-* [Learning Goals](#learning-goals)
-* [Technologies](#technologies)
-* [Usage](#usage)
-
 ## General Info
 Tweeter is an application using Twitter's free API version.
 
