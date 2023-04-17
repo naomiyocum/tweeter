@@ -1,24 +1,26 @@
-# README
+# TWEETER
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![GitHub Contributors](https://img.shields.io/github/contributors/naomiyocum/tweeter)
+![GitHub language count](https://img.shields.io/github/languages/count/naomiyocum/tweeter)
+![GitHub top language](https://img.shields.io/github/languages/top/naomiyocum/tweeter?color=yellow)
 
-Things you may want to cover:
+## Table of contents
+* [General Info](#general-info)
+* [Learning Goals](#learning-goals)
+* [Technologies](#technologies)
+* [Usage](#usage)
 
-* Ruby version
+## General Info
+Tweeter is an application using Twitter's free API version.
 
-* System dependencies
+## Learning Goals
+* Practice reading and using Twitter's API documentation
+* Implement OAuth 1.0a
 
-* Configuration
+## Technologies
+* Rails 7.0
+* Ruby 2.7
 
-* Database creation
+## Usage
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
