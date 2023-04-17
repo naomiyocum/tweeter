@@ -15,7 +15,8 @@ Tweeter is an application using Twitter's free API version.
 
 ## Learning Goals
 * Practice reading and using Twitter's API documentation
-* Implement OAuth 1.0a
+* Use CircleCI for CI/CD - address failed builds immediately
+* Implement OAuth 1.0a to authenticate users
 
 ## Technologies
 * Rails 7.0
